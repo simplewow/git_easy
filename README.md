@@ -60,3 +60,13 @@ git log
 git show head
 ```
 
+
+
+## teamwork:
+
+#1,conflict:  some people modify the same thing,
+
+```
+git pull  #return all result so that u need to dicide how to modify and then push
+```
+
